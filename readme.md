@@ -1,2 +1,1 @@
-Readme
-This is feature 2
+Readme from feature 1
