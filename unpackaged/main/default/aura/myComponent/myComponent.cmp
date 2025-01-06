@@ -1,0 +1,7 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+	<lightning:card title="Hello Lightning">
+        <p class="slds-p-horizontal_medium">
+            {message}
+        </p>
+    </lightning:card>
+</aura:component>
